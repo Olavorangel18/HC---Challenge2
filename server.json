@@ -1,0 +1,28 @@
+{
+"produtos":[
+    {
+        "id":1,
+        "photo":"//static.depositphotos.com/storage/bgremove/processed_a2c273f3-c1aa-438e-9ca6-158f37a35209_60fcf56cbe992.png",
+        "name":"IPhone",
+        "description":"Iphone da melhor qualidade que você já viu",
+        "price":5000
+    },
+
+    {
+        "id":2,
+        "photo":"//static.depositphotos.com/storage/bgremove/processed_f2fa48bd-fef4-47e5-bd4c-7089aa65bd0e_60fcf590ce219.png",
+        "name":"Galaxy",
+        "description":"Samsumg para você e sua familia toda",
+        "price":5000
+    },
+    
+    {
+        "id":3,
+        "photo":"https://static.depositphotos.com/storage/bgremove/processed_9ea31310-7069-453e-b710-8b7e3aefe1f1_60fcf59a2e626.png",
+        "name":"Motorola",
+        "description":"Hora de deixar de se preocupar com carga e travamentos",
+        "price":5000
+    }
+
+]
+}
